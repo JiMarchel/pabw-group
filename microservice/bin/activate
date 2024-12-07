@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/putramac/Documents/Web/microservice"
+VIRTUAL_ENV="/Users/putramac/Documents/Web/pabw-group/microservice"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
